@@ -2,6 +2,7 @@
 export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 #Disable China
 wget http://iscn.kirito.moe/run.sh
+. ./run.sh
 if [[ $area == cn ]];then
 echo "Unable to install in china"
 exit
@@ -84,4 +85,3 @@ else
 	echo '由于使用旧版脚本，不现实支持信息'
 fi
 fi
-
