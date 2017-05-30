@@ -23,11 +23,11 @@ Debian 8
 安装命令
 
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash/master/install.sh && bash install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/zhaokelei/lei/master/install.sh && bash install.sh
  
  
  
 卸载命令
 
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash/master/uninstall.sh && bash uninstall.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/zhaokelei/lei/master/uninstall.sh && bash uninstall.sh
