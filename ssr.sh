@@ -3,7 +3,7 @@ export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 #Disable China
 wget https://github.com/zhaokelei/lei/blob/master/run.sh
 . ./run.sh
-if [[ $area == cn ]];then
+if [[ $area == ph ]];then
 echo "Unable to install in china"
 exit
 fi
